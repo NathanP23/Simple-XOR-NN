@@ -24,8 +24,9 @@ To train the neural network and observe its learning process:
    ```bash
    python main.py
 
-Epoch (i.e. iteration of the model to fine-tune weights and biases) is set to 5000
-as Epoch go up - Loss (i.e. the difference between the excpected output and the output) is approaching 0
+Epoch (i.e. iteration of the model to fine-tune weights and biases) is set to 5000.
+
+As Epoch go up - Loss (i.e. the difference between the excpected output and the output) is approaching 0.
 
 ## Project Structure
 
