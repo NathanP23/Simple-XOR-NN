@@ -6,6 +6,7 @@ Adjusting the input data or network architecture here can demonstrate how the ne
 from neural_network import NeuralNetwork
 import numpy as np
 
+
 if __name__ == "__main__":
 
     """
