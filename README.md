@@ -1,2 +1,9 @@
-# Simple-XOR-NN
-Simple XOR neural network project demonstrating basic Python implementation using NumPy. Trains a feedforward network to approximate the XOR function, ideal for understanding foundational concepts in neural networks and their training process.
+# Simple XOR Neural Network
+
+This project implements a simple neural network to solve the XOR logic problem using Python.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/NathanP23/Simple-XOR-NN.git
