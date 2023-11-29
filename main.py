@@ -7,7 +7,6 @@ from neural_network import NeuralNetwork
 import numpy as np
 
 
-
 if __name__ == "__main__":
 
     """
