@@ -14,7 +14,6 @@ if __name__ == "__main__":
     """
     inputs = np.array([[0, 0], [0, 1], [1, 0], [1, 1]])
 
-
     """
     Defines another NumPy array targets containing the corresponding target outputs for the XOR operation, which are [0], [1], [1], [0] respectively.
     """
